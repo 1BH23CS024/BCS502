@@ -29,15 +29,3 @@ Write a Java program for implementing the RSA public key cryptosystem. The progr
 ## [Lab 7: Leaky Bucket](Lab07/Lab07.java)
 
 Write a Java program for congestion control using the leaky bucket algorithm. The program simulates packet transmission control by regulating data flow and preventing network congestion, illustrating traffic shaping and rate-limiting mechanisms.
-
-## [Lab 8: Point-to-Point Network](Lab08/Lab08.tcl)
-
-Write a TCL program to implement a three-node point-to-point network with duplex links. The program demonstrates basic network topology creation and bidirectional communication setup between nodes.
-
-## [Lab 9: Ping Transmission](Lab09/Lab09.tcl)
-
-Write a TCL program to implement transmission of ping messages between network nodes. The program simulates the ICMP echo request and reply mechanism, verifying connectivity between nodes in a simulated network.
-
-## [Lab 10: Ethernet LAN](Lab10/Lab10.tcl)
-
-Write a TCL program to implement an Ethernet LAN using multiple nodes. The program creates a local area network (LAN) setup where nodes communicate through a shared medium, demonstrating basic Ethernet communication and topology.
