@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Lab02 {
+public class SlidingWindow {
     public static void main(String[] args) throws InterruptedException {
         int windowSize = 4, totalPackets = 10, sent = 0;
         Queue<Integer> window = new LinkedList<>();
