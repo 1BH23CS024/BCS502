@@ -143,7 +143,7 @@ Send packets faster than the average rate intermittently.
 
 **35. CRC-CCITT polynomial**
 
-(x^{16} + x^{12} + x^5 + 1). 
+$x^{16} + x^{12} + x^5 + 1$
 
 **36. Other error detection algorithms**
 
